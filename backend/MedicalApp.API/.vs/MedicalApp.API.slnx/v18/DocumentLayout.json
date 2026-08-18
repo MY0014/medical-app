@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ruben\\Documents\\Sites\\backend\\MedicalApp.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82189103-AF7A-A2BB-A331-D5C9C7DF7C7E}|MedicalApp.API\\MedicalApp.API.csproj|c:\\users\\ruben\\documents\\sites\\backend\\medicalapp.api\\medicalapp.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82189103-AF7A-A2BB-A331-D5C9C7DF7C7E}|MedicalApp.API\\MedicalApp.API.csproj|solutionrelative:medicalapp.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Ruben\\Documents\\Sites\\backend\\MedicalApp.API\\MedicalApp.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "MedicalApp.API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Ruben\\Documents\\Sites\\backend\\MedicalApp.API\\MedicalApp.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "MedicalApp.API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T22:00:50.4Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
