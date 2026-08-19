@@ -1,3 +1,7 @@
 <Solution>
+  <Project Path="../MedicalApp.Application/MedicalApp.Application.csproj" Id="77d11b3b-6936-4771-abdc-057f25e001bc" />
+  <Project Path="../MedicalApp.Domain/MedicalApp.Domain.csproj" Id="10531c1a-8d2b-4fa3-860e-44b21c1b7b31" />
+  <Project Path="../MedicalApp.Infrastructure/MedicalApp.Infrastructure.csproj" Id="760dfa82-02e9-46ad-8838-f5511311f95e" />
+  <Project Path="../MedicalApp.Tests/MedicalApp.Tests.csproj" Id="2f144194-f3e8-4d43-a497-83767d925276" />
   <Project Path="MedicalApp.API/MedicalApp.API.csproj" />
 </Solution>

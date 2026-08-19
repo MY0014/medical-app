@@ -3,8 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\Ruben\\Documents\\Sites\\backend\\MedicalApp.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{82189103-AF7A-A2BB-A331-D5C9C7DF7C7E}|MedicalApp.API\\MedicalApp.API.csproj|c:\\users\\ruben\\documents\\sites\\backend\\medicalapp.api\\medicalapp.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82189103-AF7A-A2BB-A331-D5C9C7DF7C7E}|MedicalApp.API\\MedicalApp.API.csproj|solutionrelative:medicalapp.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{760DFA82-02E9-46AD-8838-F5511311F95E}|..\\MedicalApp.Infrastructure\\MedicalApp.Infrastructure.csproj|c:\\users\\ruben\\documents\\sites\\backend\\medicalapp.infrastructure\\data\\medicaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10531C1A-8D2B-4FA3-860E-44B21C1B7B31}|..\\MedicalApp.Domain\\MedicalApp.Domain.csproj|c:\\users\\ruben\\documents\\sites\\backend\\medicalapp.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10531C1A-8D2B-4FA3-860E-44B21C1B7B31}|..\\MedicalApp.Domain\\MedicalApp.Domain.csproj|c:\\users\\ruben\\documents\\sites\\backend\\medicalapp.domain\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10531C1A-8D2B-4FA3-860E-44B21C1B7B31}|..\\MedicalApp.Domain\\MedicalApp.Domain.csproj|c:\\users\\ruben\\documents\\sites\\backend\\medicalapp.domain\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10531C1A-8D2B-4FA3-860E-44B21C1B7B31}|..\\MedicalApp.Domain\\MedicalApp.Domain.csproj|c:\\users\\ruben\\documents\\sites\\backend\\medicalapp.domain\\entities\\doctorspecialty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +25,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\Ruben\\Documents\\Sites\\backend\\MedicalApp.API\\MedicalApp.API\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "MedicalApp.API\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\Ruben\\Documents\\Sites\\backend\\MedicalApp.API\\MedicalApp.API\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "MedicalApp.API\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Ruben\\Documents\\Sites\\backend\\MedicalApp.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "..\\MedicalApp.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Ruben\\Documents\\Sites\\backend\\MedicalApp.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "..\\MedicalApp.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-18T22:00:50.4Z",
+              "WhenOpened": "2026-08-19T03:50:08.167Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MedicalDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ruben\\Documents\\Sites\\backend\\MedicalApp.Infrastructure\\Data\\MedicalDbContext.cs",
+              "RelativeDocumentMoniker": "..\\MedicalApp.Infrastructure\\Data\\MedicalDbContext.cs",
+              "ToolTip": "C:\\Users\\Ruben\\Documents\\Sites\\backend\\MedicalApp.Infrastructure\\Data\\MedicalDbContext.cs",
+              "RelativeToolTip": "..\\MedicalApp.Infrastructure\\Data\\MedicalDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T04:10:05.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\Ruben\\Documents\\Sites\\backend\\MedicalApp.Domain\\Entities\\Payment.cs",
+              "RelativeDocumentMoniker": "..\\MedicalApp.Domain\\Entities\\Payment.cs",
+              "ToolTip": "C:\\Users\\Ruben\\Documents\\Sites\\backend\\MedicalApp.Domain\\Entities\\Payment.cs",
+              "RelativeToolTip": "..\\MedicalApp.Domain\\Entities\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T03:52:21.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\Ruben\\Documents\\Sites\\backend\\MedicalApp.Domain\\Entities\\Appointment.cs",
+              "RelativeDocumentMoniker": "..\\MedicalApp.Domain\\Entities\\Appointment.cs",
+              "ToolTip": "C:\\Users\\Ruben\\Documents\\Sites\\backend\\MedicalApp.Domain\\Entities\\Appointment.cs",
+              "RelativeToolTip": "..\\MedicalApp.Domain\\Entities\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T03:52:13.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DoctorSpecialty.cs",
+              "DocumentMoniker": "C:\\Users\\Ruben\\Documents\\Sites\\backend\\MedicalApp.Domain\\Entities\\DoctorSpecialty.cs",
+              "RelativeDocumentMoniker": "..\\MedicalApp.Domain\\Entities\\DoctorSpecialty.cs",
+              "ToolTip": "C:\\Users\\Ruben\\Documents\\Sites\\backend\\MedicalApp.Domain\\Entities\\DoctorSpecialty.cs",
+              "RelativeToolTip": "..\\MedicalApp.Domain\\Entities\\DoctorSpecialty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T03:51:52.033Z",
               "EditorCaption": ""
             }
           ]

@@ -11,108 +11,82 @@ function App() {
 
           <div className="welcome-section">
             <div className="welcome-content">
-
               <div className="logo">
                 <div className="logo-icon">♥</div>
                 <div>
-                  <h2>Medicall-App</h2>
-                  <span>Appointments</span>
+                  <h2>Medical-App</h2>
+                  <span>Manejo de citas</span>
                 </div>
               </div>
-
               <div className="welcome-text">
-                <h3>TO YOUR HEALTH JOURNEY</h3>
+                <h3></h3>
                 <p>
-                  Book appointments with top doctors, manage
-                  your schedule and payments, and get the best
-                  healthcare experience all in one place.
                 </p>
               </div>
-
             </div>
-
             <div className="circle circle-one"></div>
             <div className="circle circle-two"></div>
             <div className="circle circle-three"></div>
           </div>
-
           <div className="form-section">
-
             <div className="form-container">
-
-              <h1>Sign in</h1>
-
+              <h1>Inicio Sesion</h1>
               <p className="form-description">
-
               </p>
               <form>
                 <div className="input-group">
                   <span className="input-icon">👤</span>
-
                   <input
                       type="text"
-                      placeholder="User name or email"
+                      placeholder="Usuario o correo"
                   />
                 </div>
-
                 <div className="input-group">
                   <span className="input-icon">🔒</span>
 
                   <input
                       type="password"
-                      placeholder="Password"
+                      placeholder="Clave"
                   />
-
                   <button
                       type="button"
                       className="show-button"
                   >
-                    SHOW
+                    Mostrar
                   </button>
                 </div>
-
                 <div className="form-options">
-
                   <label>
                     <input type="checkbox" />
-                    <span>Remember me</span>
+                    <span>Recordar datos</span>
                   </label>
 
                   <a href="#">
-                    Forgot password?
+                    Olvidaste tu clave?
                   </a>
-
                 </div>
-
                 <button
                     type="submit"
                     className="login-button"
                 >
-                  Sign in
+                  Iniciar sesion
                 </button>
-
               </form>
-
               <div className="divider">
                 <span></span>
-                <p>or</p>
+                <p>o</p>
                 <span></span>
               </div>
-
               <button className="google-button">
                 <span className="google-icon">G</span>
-                Sign in with Google
+                Iniciar con google
               </button>
-
               <p className="register-text">
-                Don't have an account?
-                <a href="#"> Sign up</a>
+                No tiene cuenta?
+                <a href="#"> Crear una</a>
               </p>
-
             </div>
-
           </div>
-
         </div>
       </div>
   );
