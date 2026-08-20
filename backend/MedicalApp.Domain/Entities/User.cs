@@ -7,7 +7,7 @@ namespace MedicalApp.Domain.Entities
 {
     public class User
     {
-        public Guid id {  get; set; }
+        public Guid Id {  get; set; }
         [Required]
         public string FirstName { get; set; }
         public string LastName { get; set; }
@@ -16,6 +16,6 @@ namespace MedicalApp.Domain.Entities
         public string PasswordHash { get; set; }
 
         public string Role { get; set; } = "Patient";
-        public DateTime CreatedAt { get; set; }
+        public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
     }
 }
