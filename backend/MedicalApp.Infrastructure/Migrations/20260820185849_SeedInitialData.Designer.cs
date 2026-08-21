@@ -12,7 +12,7 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 namespace MedicalApp.Infrastructure.Migrations
 {
     [DbContext(typeof(MedicalDbContext))]
-    [Migration("20260820062118_SeedInitialData")]
+    [Migration("20260820185849_SeedInitialData")]
     partial class SeedInitialData
     {
         /// <inheritdoc />
@@ -209,7 +209,7 @@ namespace MedicalApp.Infrastructure.Migrations
                         {
                             Id = new Guid("aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa"),
                             ConsultationPrice = 500.00m,
-                            CreatedAt = new DateTime(2026, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            CreatedAt = new DateTime(2026, 1, 1, 0, 0, 0, 0, DateTimeKind.Utc),
                             Description = "Médico especialista en medicina general.",
                             FirstName = "Carlos",
                             IsActive = true,
@@ -220,7 +220,7 @@ namespace MedicalApp.Infrastructure.Migrations
                         {
                             Id = new Guid("bbbbbbbb-bbbb-bbbb-bbbb-bbbbbbbbbbbb"),
                             ConsultationPrice = 900.00m,
-                            CreatedAt = new DateTime(2026, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            CreatedAt = new DateTime(2026, 1, 1, 0, 0, 0, 0, DateTimeKind.Utc),
                             Description = "Especialista en cardiología.",
                             FirstName = "María",
                             IsActive = true,
@@ -231,7 +231,7 @@ namespace MedicalApp.Infrastructure.Migrations
                         {
                             Id = new Guid("cccccccc-cccc-cccc-cccc-cccccccccccc"),
                             ConsultationPrice = 750.00m,
-                            CreatedAt = new DateTime(2026, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            CreatedAt = new DateTime(2026, 1, 1, 0, 0, 0, 0, DateTimeKind.Utc),
                             Description = "Especialista en dermatología.",
                             FirstName = "Alejandro",
                             IsActive = true,
@@ -242,7 +242,7 @@ namespace MedicalApp.Infrastructure.Migrations
                         {
                             Id = new Guid("dddddddd-dddd-dddd-dddd-dddddddddddd"),
                             ConsultationPrice = 650.00m,
-                            CreatedAt = new DateTime(2026, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            CreatedAt = new DateTime(2026, 1, 1, 0, 0, 0, 0, DateTimeKind.Utc),
                             Description = "Especialista en pediatría y medicina general.",
                             FirstName = "Laura",
                             IsActive = true,

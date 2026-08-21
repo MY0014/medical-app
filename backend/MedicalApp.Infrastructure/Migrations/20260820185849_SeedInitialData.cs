@@ -18,10 +18,10 @@ namespace MedicalApp.Infrastructure.Migrations
                 columns: new[] { "Id", "ConsultationPrice", "CreatedAt", "Description", "FirstName", "IsActive", "LastName", "LicenseNumber" },
                 values: new object[,]
                 {
-                    { new Guid("aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa"), 500.00m, new DateTime(2026, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), "Médico especialista en medicina general.", "Carlos", true, "Ramírez", "MED-10001" },
-                    { new Guid("bbbbbbbb-bbbb-bbbb-bbbb-bbbbbbbbbbbb"), 900.00m, new DateTime(2026, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), "Especialista en cardiología.", "María", true, "González", "MED-10002" },
-                    { new Guid("cccccccc-cccc-cccc-cccc-cccccccccccc"), 750.00m, new DateTime(2026, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), "Especialista en dermatología.", "Alejandro", true, "Torres", "MED-10003" },
-                    { new Guid("dddddddd-dddd-dddd-dddd-dddddddddddd"), 650.00m, new DateTime(2026, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), "Especialista en pediatría y medicina general.", "Laura", true, "Martínez", "MED-10004" }
+                    { new Guid("aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa"), 500.00m, new DateTime(2026, 1, 1, 0, 0, 0, 0, DateTimeKind.Utc), "Médico especialista en medicina general.", "Carlos", true, "Ramírez", "MED-10001" },
+                    { new Guid("bbbbbbbb-bbbb-bbbb-bbbb-bbbbbbbbbbbb"), 900.00m, new DateTime(2026, 1, 1, 0, 0, 0, 0, DateTimeKind.Utc), "Especialista en cardiología.", "María", true, "González", "MED-10002" },
+                    { new Guid("cccccccc-cccc-cccc-cccc-cccccccccccc"), 750.00m, new DateTime(2026, 1, 1, 0, 0, 0, 0, DateTimeKind.Utc), "Especialista en dermatología.", "Alejandro", true, "Torres", "MED-10003" },
+                    { new Guid("dddddddd-dddd-dddd-dddd-dddddddddddd"), 650.00m, new DateTime(2026, 1, 1, 0, 0, 0, 0, DateTimeKind.Utc), "Especialista en pediatría y medicina general.", "Laura", true, "Martínez", "MED-10004" }
                 });
 
             migrationBuilder.InsertData(
