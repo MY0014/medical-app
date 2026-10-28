@@ -3,12 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\Ruben\\Documents\\Sites\\backend\\MedicalApp.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{82189103-AF7A-A2BB-A331-D5C9C7DF7C7E}|MedicalApp.API\\MedicalApp.API.csproj|c:\\users\\ruben\\documents\\sites\\backend\\medicalapp.api\\medicalapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82189103-AF7A-A2BB-A331-D5C9C7DF7C7E}|MedicalApp.API\\MedicalApp.API.csproj|solutionrelative:medicalapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{760DFA82-02E9-46AD-8838-F5511311F95E}|..\\MedicalApp.Infrastructure\\MedicalApp.Infrastructure.csproj|c:\\users\\ruben\\documents\\sites\\backend\\medicalapp.infrastructure\\configurations\\doctorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{82189103-AF7A-A2BB-A331-D5C9C7DF7C7E}|MedicalApp.API\\MedicalApp.API.csproj|c:\\users\\ruben\\documents\\sites\\backend\\medicalapp.api\\medicalapp.api\\controllers\\availabilitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82189103-AF7A-A2BB-A331-D5C9C7DF7C7E}|MedicalApp.API\\MedicalApp.API.csproj|solutionrelative:medicalapp.api\\controllers\\availabilitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82189103-AF7A-A2BB-A331-D5C9C7DF7C7E}|MedicalApp.API\\MedicalApp.API.csproj|c:\\users\\ruben\\documents\\sites\\backend\\medicalapp.api\\medicalapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82189103-AF7A-A2BB-A331-D5C9C7DF7C7E}|MedicalApp.API\\MedicalApp.API.csproj|solutionrelative:medicalapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{82189103-AF7A-A2BB-A331-D5C9C7DF7C7E}|MedicalApp.API\\MedicalApp.API.csproj|c:\\users\\ruben\\documents\\sites\\backend\\medicalapp.api\\medicalapp.api\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,9 +36,6 @@
       "AbsoluteMoniker": "D:0:0:{10531C1A-8D2B-4FA3-860E-44B21C1B7B31}|..\\MedicalApp.Domain\\MedicalApp.Domain.csproj|c:\\users\\ruben\\documents\\sites\\backend\\medicalapp.domain\\entities\\availability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{760DFA82-02E9-46AD-8838-F5511311F95E}|..\\MedicalApp.Infrastructure\\MedicalApp.Infrastructure.csproj|c:\\users\\ruben\\documents\\sites\\backend\\medicalapp.infrastructure\\configurations\\doctorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{77D11B3B-6936-4771-ABDC-057F25E001BC}|..\\MedicalApp.Application\\MedicalApp.Application.csproj|c:\\users\\ruben\\documents\\sites\\backend\\medicalapp.application\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -55,31 +55,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ruben\\Documents\\Sites\\backend\\MedicalApp.API\\MedicalApp.API\\Program.cs",
               "RelativeDocumentMoniker": "MedicalApp.API\\Program.cs",
               "ToolTip": "C:\\Users\\Ruben\\Documents\\Sites\\backend\\MedicalApp.API\\MedicalApp.API\\Program.cs",
               "RelativeToolTip": "MedicalApp.API\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-20T20:15:56.178Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "DoctorConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Ruben\\Documents\\Sites\\backend\\MedicalApp.Infrastructure\\Configurations\\DoctorConfiguration.cs",
               "RelativeDocumentMoniker": "..\\MedicalApp.Infrastructure\\Configurations\\DoctorConfiguration.cs",
               "ToolTip": "C:\\Users\\Ruben\\Documents\\Sites\\backend\\MedicalApp.Infrastructure\\Configurations\\DoctorConfiguration.cs",
               "RelativeToolTip": "..\\MedicalApp.Infrastructure\\Configurations\\DoctorConfiguration.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-21T04:16:13.679Z",
               "EditorCaption": ""
@@ -94,12 +93,11 @@
               "RelativeToolTip": "MedicalApp.API\\Controllers\\AvailabilityController.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAowCwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T04:14:22.474Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-21T04:14:22.474Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "DoctorController.cs",
               "DocumentMoniker": "C:\\Users\\Ruben\\Documents\\Sites\\backend\\MedicalApp.API\\MedicalApp.API\\Controllers\\DoctorController.cs",
               "RelativeDocumentMoniker": "MedicalApp.API\\Controllers\\DoctorController.cs",
@@ -107,12 +105,11 @@
               "RelativeToolTip": "MedicalApp.API\\Controllers\\DoctorController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-20T22:17:52.778Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-20T22:17:52.778Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "AvailabilityService.cs",
               "DocumentMoniker": "C:\\Users\\Ruben\\Documents\\Sites\\backend\\MedicalApp.Application\\Services\\AvailabilityService.cs",
               "RelativeDocumentMoniker": "..\\MedicalApp.Application\\Services\\AvailabilityService.cs",
@@ -120,12 +117,11 @@
               "RelativeToolTip": "..\\MedicalApp.Application\\Services\\AvailabilityService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T04:13:56.026Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-21T04:13:56.026Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "AvailabilityRepository.cs",
               "DocumentMoniker": "C:\\Users\\Ruben\\Documents\\Sites\\backend\\MedicalApp.Infrastructure\\Repositories\\AvailabilityRepository.cs",
               "RelativeDocumentMoniker": "..\\MedicalApp.Infrastructure\\Repositories\\AvailabilityRepository.cs",
@@ -133,12 +129,11 @@
               "RelativeToolTip": "..\\MedicalApp.Infrastructure\\Repositories\\AvailabilityRepository.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAgwCEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T04:13:36.574Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-21T04:13:36.574Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "IAvailabilityService.cs",
               "DocumentMoniker": "C:\\Users\\Ruben\\Documents\\Sites\\backend\\MedicalApp.Application\\Interfaces\\IAvailabilityService.cs",
               "RelativeDocumentMoniker": "..\\MedicalApp.Application\\Interfaces\\IAvailabilityService.cs",
@@ -146,12 +141,11 @@
               "RelativeToolTip": "..\\MedicalApp.Application\\Interfaces\\IAvailabilityService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T04:12:54.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-21T04:12:54.343Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "IAvailabilityRepository.cs",
               "DocumentMoniker": "C:\\Users\\Ruben\\Documents\\Sites\\backend\\MedicalApp.Application\\Interfaces\\IAvailabilityRepository.cs",
               "RelativeDocumentMoniker": "..\\MedicalApp.Application\\Interfaces\\IAvailabilityRepository.cs",
@@ -159,12 +153,11 @@
               "RelativeToolTip": "..\\MedicalApp.Application\\Interfaces\\IAvailabilityRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T04:12:44.954Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-21T04:12:44.954Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Availability.cs",
               "DocumentMoniker": "C:\\Users\\Ruben\\Documents\\Sites\\backend\\MedicalApp.Domain\\Entities\\Availability.cs",
               "RelativeDocumentMoniker": "..\\MedicalApp.Domain\\Entities\\Availability.cs",
@@ -172,12 +165,11 @@
               "RelativeToolTip": "..\\MedicalApp.Domain\\Entities\\Availability.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T04:17:07.389Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-21T04:17:07.389Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "AvailabilityDto.cs",
               "DocumentMoniker": "C:\\Users\\Ruben\\Documents\\Sites\\backend\\MedicalApp.Application\\DTOs\\AvailabilityDto.cs",
               "RelativeDocumentMoniker": "..\\MedicalApp.Application\\DTOs\\AvailabilityDto.cs",
@@ -185,8 +177,7 @@
               "RelativeToolTip": "..\\MedicalApp.Application\\DTOs\\AvailabilityDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T04:12:11.877Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-21T04:12:11.877Z"
             },
             {
               "$type": "Document",
@@ -198,8 +189,7 @@
               "RelativeToolTip": "..\\MedicalApp.Application\\Services\\DoctorService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-20T22:17:08.902Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-20T22:17:08.902Z"
             },
             {
               "$type": "Document",
@@ -211,8 +201,7 @@
               "RelativeToolTip": "..\\MedicalApp.Infrastructure\\Repositories\\DoctorRepository.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAQwBwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-20T22:17:29.881Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-20T22:17:29.881Z"
             },
             {
               "$type": "Document",
@@ -224,8 +213,7 @@
               "RelativeToolTip": "..\\MedicalApp.Application\\Interfaces\\IDoctorService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-20T22:16:56.592Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-20T22:16:56.592Z"
             },
             {
               "$type": "Document",
@@ -237,8 +225,7 @@
               "RelativeToolTip": "..\\MedicalApp.Application\\Interfaces\\IDoctorRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-20T22:16:46.997Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-20T22:16:46.997Z"
             }
           ]
         }
